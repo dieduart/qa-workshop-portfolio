@@ -3,7 +3,7 @@
 # QA Workshop Portfolio
 Portafolio individual del workshop “Ingeniero de Pruebas en el Desarrollo Moderno”.
 
-Autor: [Diego Duarte]
+Autor: Diego Duarte
 
 Este repositorio contendrá los entregables desarrollados durante el workshop.
 

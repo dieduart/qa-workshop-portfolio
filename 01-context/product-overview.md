@@ -21,3 +21,17 @@ La plataforma permite un modelo de ingresos recurrentes y predecibles. Captura d
 Tambien permite una expansión de mercado sin barreras geográficas al vender alimentos y artículos a nivel nacional las 24 horas del día, los 7 días de la semana.
 
 ## Usuario Principales
+Cliente Invitado: Permisos de solo lectura. Puede navegar por el catálogo, comparar precios, usar el buscador y añadir productos al carrito, pero el sistema le impide confirmar compras.
+
+Cliente Registrado: Permisos de lectura y escritura sobre su propio entorno. Usuario autenticado que puede gestionar su perfil, guardar su información de facturación e historial de órdenes, añadir productos al carrito y procesar órdenes de compra reales o simuladas.
+
+## Funcionalidades principales
+Gestión de Catálogo (Navegación): Clasificación de mascotas por categorías en la página principal (Fish, Dogs, Reptiles, Cats, Birds). Permite visualizar listas de productos y detalles específicos de cada ítem (como raza, descripción y precio)
+
+Autenticación y Registro: Formulario para registrar una cuenta nueva y sistema de inicio/cierre de sesión (Sign In / Sign Out).
+
+Carrito de Compras (Shopping Cart): Permite añadir ítems al carrito, actualizar dinámicamente las cantidades y recalcular el costo total de la orden.
+
+Procesamiento de Checkout / Órdenes: Flujo guiado para ingresar datos de envío, revisar la facturación y confirmar la compra simulada de las mascotas.
+
+Buscador Interno: Barra de búsqueda de texto para localizar productos de forma directa mediante palabras clave.

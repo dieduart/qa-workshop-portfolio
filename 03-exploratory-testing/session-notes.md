@@ -66,9 +66,13 @@ Explorar el formulario de inicio de sesión (Login) y registro de cuentas.Para v
 
 ## ÁREAS
 **Plataforma:** JpetStore
+
 **URL esploradas:**
+
 https://petstore.octoperf.com/actions/Account.action?signonForm=
+
 https://petstore.octoperf.com/actions/Account.action?newAccountForm=
+
 **Navegador** 
 Brave 1.96.59 (Build oficial) (64 bits)
 Chromium: 154.0.8037.58
@@ -90,7 +94,7 @@ ingresar mal la contraseña del usuario nuevo varias veces. Mas de 4 veces
 
 ## ARCHIVOS DE DATOS
 Usuario válido utilizado: j2ee/j2ee
-Usuarios nuevo registrados: dieduart/123 y d/d
+Usuarios nuevo registrados: (dieduart/123) y (d/d)
 
 ## NOTAS DE PRUEBA
 Se realizaron pruebas en el flujo de inicio de sesión con datos correctos e incorrectos. El sistema valida la información y emite el siguiente mensaje cuando los datos son incorrectos: "Invalid username or password. Signon failed."
@@ -113,3 +117,4 @@ El sistema no valida un formato correcto para el email.
 
 ## INCIDENTES (ISSUES) 
 No está claro si existen campos obligatorios o no en el formulario de registro de usuario, ya que lo que ocurre es un error "Estado HTTP 500 – Internal Server Error" al momento de dar click en el boton "Save Account Information" con campos del formulario sin infomación.
+Sale el mismo error al momento de intentar crear un usuario que ya existe con exactamente los mismos datos.
